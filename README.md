@@ -36,7 +36,7 @@ Actix-Web Starter is a tiny template to kickstart your Actix-Web-based Rust API 
 1. Clone this repository:
 
   ```bash
-  git clone https://github.com/your-username/actix-web-starter.git
+  git clone https://github.com/ZephyrCodesStuff/actix-web-starter.git
   cd actix-web-starter
   ```
 
